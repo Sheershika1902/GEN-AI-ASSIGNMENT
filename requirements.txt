@@ -1,0 +1,8 @@
+# IndustroSense AI - Requirements
+# Minimal and reliable dependencies for Windows / VS Code
+
+streamlit>=1.28.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+pillow>=9.5.0
